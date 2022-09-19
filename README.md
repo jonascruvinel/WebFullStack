@@ -51,18 +51,18 @@ Aplicação desenvolvida no Curso Web FullStack JS - https://www.luiztools.com.b
 
 ## Iniciando
 
- backend > 
+backend  <br/>
     __commons__
-        'npm i'
-    accounts-service
-        '''
+        `npm i` <br />
+    __accounts-service__
+        ```
             npm i
             npm run compile
-        '''
-    contacts-sercive
-        '''
+        ```<br />
+    __contacts-sercive__
+        ```
             npm i
             npm run compile
-        '''
-frontend
-    'npm i'
+        ```<br />
+frontend <br />
+    `npm i`
